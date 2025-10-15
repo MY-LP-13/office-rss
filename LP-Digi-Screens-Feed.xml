@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Office Updates</title>
+    <link>https://example.com/</link>
+    <description>Weekly internal news and events</description>
+    <language>en-au</language>
+    <lastBuildDate>Wed, 15 Oct 2025 02:00:00 +0000</lastBuildDate>
+    <ttl>30</ttl>
+
+    <item>
+      <title>Halloween Trivia Night – Thu 30 Oct, 4:30pm</title>
+      <link>https://example.com/halloween-trivia</link>
+      <guid isPermaLink="false">officeupdates-2025-10-30-trivia</guid>
+      <pubDate>Wed, 15 Oct 2025 01:30:00 +0000</pubDate>
+      <description>Costumes optional, fun mandatory. Level 3 Breakout Space. Please RSVP via the staff form.</description>
+    </item>
+
+    <item>
+      <title>Blueprint Listening Post – Today 11:00–11:30am</title>
+      <link>https://example.com/blueprint-listening-post</link>
+      <guid isPermaLink="false">officeupdates-2025-10-15-listeningpost</guid>
+      <pubDate>Wed, 15 Oct 2025 01:00:00 +0000</pubDate>
+      <description>Drop-in Q&amp;A with Tessa, Sophie &amp; Cam at the Level 3 Breakout Space.</description>
+    </item>
+  </channel>
+</rss>
