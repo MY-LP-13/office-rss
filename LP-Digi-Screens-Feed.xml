@@ -9,19 +9,65 @@
     <ttl>30</ttl>
 
     <item>
-      <title>Halloween Trivia Night – Thu 30 Oct, 4:30pm</title>
-      <link>https://example.com/halloween-trivia</link>
-      <guid isPermaLink="false">officeupdates-2025-10-30-trivia</guid>
-      <pubDate>Wed, 15 Oct 2025 01:30:00 +0000</pubDate>
-      <description>Costumes optional, fun mandatory. Level 3 Breakout Space. Please RSVP via the staff form.</description>
-    </item>
+  <title>Blueprint Listening Post – Wed 15 Oct, 11:00–11:30</title>
+  <guid isPermaLink="false">lp-2025-10-15-listening-post</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Drop-in Q&amp;A at Level 3 Breakout Space. Ask your Blueprint questions and hear from the project leads.</description>
+</item>
+<item>
+  <title>West Gate Bridge Memorial – Wed 15 Oct</title>
+  <guid isPermaLink="false">lp-2025-10-15-west-gate-memorial</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Executive attending 55th Annual West Gate Bridge Memorial at Douglas Parade, Spotswood, honouring 35 workers lost in 1970.</description>
+</item>
+<item>
+  <title>Table Tennis Tournament – Wed 15 Oct, 12:30</title>
+  <guid isPermaLink="false">lp-2025-10-15-table-tennis</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Final round this Wednesday at 12:30pm. Be there to cheer them on and see who wins!</description>
+</item>
+<item>
+  <title>FY25 Tax Returns Due – Thu 31 Oct</title>
+  <guid isPermaLink="false">lp-2025-10-31-tax-returns</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Reminder: submit your own tax return for FY25 by 31 Oct if you’re lodging directly with the ATO.</description>
+</item>
+<item>
+  <title>New Starters – Mon 13 Oct</title>
+  <guid isPermaLink="false">lp-2025-10-13-new-starters</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Welcome to Senan O’Muirí, Christina Walls and Cath Hinton joining LeavePlus this week.</description>
+</item>
+<item>
+  <title>Farewells – Oct departures</title>
+  <guid isPermaLink="false">lp-2025-10-15-farewells</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Farewell to Danny D’Alessandro and Aneta Nikoloski, finishing on 17 Oct and 31 Oct respectively. Thank you both!</description>
+</item>
+<item>
+  <title>Match Schedule &amp; Results – Week 3</title>
+  <guid isPermaLink="false">lp-2025-10-15-table-tennis-results</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Round 3 winners: Shantiks VS EO, KAOS VS Serve &amp; Destroy. Finals next Wednesday!</description>
+</item>
+<item>
+  <title>Security Pass Reminder</title>
+  <guid isPermaLink="false">lp-2025-10-15-security-pass</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Keep your security pass safe and return any borrowed passes. Report lost passes immediately to Sharon D.</description>
+</item>
+<item>
+  <title>Wellness Corner – Weekly Tip</title>
+  <guid isPermaLink="false">lp-2025-10-15-wellness-tip</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Give yourself permission to rest. Even 10 minutes with eyes closed helps your body and mind reset.</description>
+</item>
+<item>
+  <title>Recruiting Now – Internal Roles</title>
+  <guid isPermaLink="false">lp-2025-10-15-internal-roles</guid>
+  <pubDate>Wed, 15 Oct 2025 02:00:00 +0000</pubDate>
+  <description>Open roles: Member Response (G3), Resource Analyst (G4), Lawyer (G5), Service Investigations (G2), Business Reading Lead (G4).</description>
+</item>
 
-    <item>
-      <title>Blueprint Listening Post – Today 11:00–11:30am</title>
-      <link>https://example.com/blueprint-listening-post</link>
-      <guid isPermaLink="false">officeupdates-2025-10-15-listeningpost</guid>
-      <pubDate>Wed, 15 Oct 2025 01:00:00 +0000</pubDate>
-      <description>Drop-in Q&amp;A with Tessa, Sophie &amp; Cam at the Level 3 Breakout Space.</description>
-    </item>
   </channel>
 </rss>
