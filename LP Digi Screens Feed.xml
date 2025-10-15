@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Office Updates</title>
+    <link>https://example.com/</link>
+    <description>Weekly internal news and events</description>
+    <language>en-au</language>
+    <lastBuildDate>Wed, 15 Oct 2025 02:00:00 +0000</lastBuildDate>
+    <ttl>30</ttl>
+
+    <item>
+      <title>Halloween Trivia Night – Thu 30 Oct, 4:30pm</title>
+      <link>https://example.com/halloween-trivia</link>
+      <guid isPermaLink="false">officeupdates-2025-10-30-trivia</guid>
+      <pubDate>Wed, 15 Oct 2025 01:30:00 +0000</pubDate>
+      <description><![CDATA[
+        Costumes optional, fun mandatory. Level 3 Breakout Space. Please RSVP via the staff form.
+      ]]></description>
+      <content:encoded><![CDATA[
+        Costumes optional, fun mandatory. Level 3 Breakout Space. Please RSVP via the staff form.
+      ]]></content:encoded>
+    </item>
+
+    <item>
+      <title>Blueprint Listening Post – Today 11:00–11:30am</title>
+      <link>https://example.com/blueprint-listening-post</link>
+      <guid isPermaLink="false">officeupdates-2025-10-15-listeningpost</guid>
+      <pubDate>Wed, 15 Oct 2025 01:00:00 +0000</pubDate>
+      <description><![CDATA[
+        Drop-in Q&A with Tessa, Sophie & Cam at the Level 3 Breakout Space.
+      ]]></description>
+      <content:encoded><![CDATA[
+        Drop-in Q&A with Tessa, Sophie & Cam at the Level 3 Breakout Space.
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
