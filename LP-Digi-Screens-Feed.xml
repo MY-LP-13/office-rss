@@ -9,88 +9,154 @@
     <ttl>30</ttl>
 
 <item>
-<title>Melbourne International Comedy Festival – Starts Wed 26 March</title>
-<guid isPermaLink="false">lp-2026-03-24-comedy-festival</guid>
-<pubDate>Wed, 26 Mar 2026 00:00:00 +0000</pubDate>
-<description>The Melbourne International Comedy Festival kicks off Wednesday with over 750 shows. Something for everyone!</description>
-</item>
-<item>
-<title>Eid in the City – Sat 28 &amp; Sun 29 March</title>
-<guid isPermaLink="false">lp-2026-03-24-eid-in-the-city</guid>
-<pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-<description>State Library of Victoria on Saturday (dance, bands, chess, family activities). Queen Victoria Market on Sunday (roving artists, Journey Through the Muslim World).</description>
-</item>
-<item>
-<title>Melbourne Food &amp; Wine Festival – Finishing Sunday</title>
-<guid isPermaLink="false">lp-2026-03-24-food-wine-festival</guid>
-<pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-<description>The Melbourne Food &amp; Wine Festival wraps up this Sunday. Get in before it ends!</description>
-</item>
-<item>
-<title>March Town Hall – Wed 25 March</title>
-<guid isPermaLink="false">lp-2026-03-24-march-town-hall</guid>
-<pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-<description>Town Hall this Wednesday. Leaders: please review and update the agenda. Followed by Hot Cross Buns for Easter and catering to celebrate Eid al-Fitr.</description>
-</item>
-<item>
-<title>Elevate PI7 Mid-Increment Showcase – Wed 25 March, Level 3</title>
-<guid isPermaLink="false">lp-2026-03-24-elevate-pi7-showcase</guid>
-<pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-<description>PI7 Mid-Increment Showcase on Level 3 Wednesday, followed by a Project Elevate catch-up celebrating 7 successful PIs delivered.</description>
-</item>
-<item>
-<title>Executive Quarterly Strategy Meeting – Thu 26 March</title>
-<guid isPermaLink="false">lp-2026-03-24-exec-strategy-meeting</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<description>The Executive team meets for their Quarterly Strategy Meeting on Thursday in the Boardroom.</description>
-</item>
-<item>
-<title>Welcome Stacy Rowe – Senior Business Analyst, EPMO</title>
-<guid isPermaLink="false">lp-2026-03-24-new-starter-stacy-rowe</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<description>Stacy Rowe joined the EPMO as Senior Business Analyst on 19 March. Please make her feel welcome!</description>
-</item>
-<item>
-<title>Welcome Neelakshi Pathania – Triage Consultant</title>
-<guid isPermaLink="false">lp-2026-03-24-new-starter-neelakshi-pathania</guid>
-<pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-<description>Neelakshi Pathania starts today as Triage Consultant in Service Investigations. Please make her feel welcome!</description>
-</item>
-<item>
-<title>Welcome Andrew Pike – Consultant, Member Registrations</title>
-<guid isPermaLink="false">lp-2026-03-24-new-starter-andrew-pike</guid>
-<pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-<description>Andrew Pike starts today as Consultant in Member Registrations. Please make him feel welcome!</description>
-</item>
-<item>
-<title>Farewell Kate Blackburn – Parental Leave from 30 March</title>
-<guid isPermaLink="false">lp-2026-03-24-farewell-kate-blackburn</guid>
+<title>Daylight Saving Ends This Weekend</title>
+<guid isPermaLink="false">lp-2026-03-31-daylight-saving</guid>
 <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-<description>Kate Blackburn, Cyber Security Manager, is going on Parental Leave from 30 March. All the best Kate!</description>
+<description>Don&apos;t forget to turn your clocks back 1 hour this weekend as daylight saving ends.</description>
+</item>
+<item>
+<title>CMS Go Live Date Coming Soon</title>
+<guid isPermaLink="false">lp-2026-03-31-cms-go-live</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>Thanks to everyone working hard to resolve the last remaining CMS issues. We are very close — look out for the go live date announcement soon.</description>
+</item>
+<item>
+<title>FY27 KPI &amp; Budget Planning Underway</title>
+<guid isPermaLink="false">lp-2026-03-31-fy27-planning</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>The Executive met last week for the quarterly strategy meeting. KPI planning for FY27 and annual budget work is now underway.</description>
+</item>
+<item>
+<title>Free Public Transport – 31 Mar to 30 Apr</title>
+<guid isPermaLink="false">lp-2026-03-31-free-transport</guid>
+<pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+<description>The Victorian Government has announced free public transport from 31 March to 30 April to ease increasing fuel costs.</description>
+</item>
+<item>
+<title>Easter Break – 2 Short Weeks Ahead</title>
+<guid isPermaLink="false">lp-2026-03-31-easter-break</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>With Easter this weekend we have 2 short weeks ahead. Enjoy the break — and Happy Easter to those celebrating.</description>
+</item>
+<item>
+<title>Business Transformation Committee – Wed 1 Apr</title>
+<guid isPermaLink="false">lp-2026-03-31-btc-meeting</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<description>The Business Transformation Committee meets Wednesday 1 April to discuss the progress of Project Elevate.</description>
+</item>
+<item>
+<title>Elevate PI7 Showcase – Wed 1 Apr, 2:30pm, L3</title>
+<guid isPermaLink="false">lp-2026-03-31-elevate-showcase</guid>
+<pubDate>Wed, 01 Apr 2026 14:30:00 +0000</pubDate>
+<description>Project Elevate PI7 mid-increment showcase is Wednesday 1 April on Level 3 at 2.30pm.</description>
+</item>
+<item>
+<title>Executive Fortnightly Meeting – Thu 2 Apr</title>
+<guid isPermaLink="false">lp-2026-03-31-exec-meeting</guid>
+<pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+<description>The Executive meet for their fortnightly meeting on Thursday 2 April in the Boardroom.</description>
+</item>
+<item>
+<title>Nowruz – Persian New Year Celebrated 20 Mar</title>
+<guid isPermaLink="false">lp-2026-03-31-nowruz</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>Nowruz was celebrated on 20 March, marking the Persian New Year and the arrival of spring. It is observed by an estimated 300 million people worldwide.</description>
+</item>
+<item>
+<title>Transgender Day of Visibility – Tue 31 Mar</title>
+<guid isPermaLink="false">lp-2026-03-31-tdov</guid>
+<pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+<description>Transgender Day of Visibility is Tuesday 31 March — a day dedicated to recognising the resilience and accomplishments of the transgender community.</description>
+</item>
+<item>
+<title>World Autism Awareness Day – Thu 2 Apr</title>
+<guid isPermaLink="false">lp-2026-03-31-autism-day</guid>
+<pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+<description>World Autism Awareness Day is Thursday 2 April. The 2026 theme is &quot;Autism and Humanity — Every Life Has Value&quot;.</description>
+</item>
+<item>
+<title>Theravada New Year – 2 to 5 Apr</title>
+<guid isPermaLink="false">lp-2026-03-31-theravada-new-year</guid>
+<pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+<description>The Buddhist Theravada New Year is celebrated from the first full moon in April (2–5 April) in countries including Thailand, Sri Lanka, Cambodia and Lao.</description>
+</item>
+<item>
+<title>Good Friday &amp; Easter – 3 to 5 Apr</title>
+<guid isPermaLink="false">lp-2026-03-31-easter</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<description>Good Friday is 3 April with Easter Sunday following on. Easter celebrates the resurrection of Jesus Christ and is intertwined with Passover traditions.</description>
+</item>
+<item>
+<title>Welcome Humphrey Laubscher – Delivery Lead</title>
+<guid isPermaLink="false">lp-2026-03-31-starter-humphrey</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<description>Humphrey Laubscher, Delivery Lead for the FMS Squad in Project Elevate, started on 26 March. Please make him feel welcome.</description>
+</item>
+<item>
+<title>Welcome Jackie Oliver – Senior Learning Partner</title>
+<guid isPermaLink="false">lp-2026-03-31-starter-jackie</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>Jackie Oliver, Senior Learning Partner in People &amp; Culture, starts today 30 March. Please make her feel welcome.</description>
+</item>
+<item>
+<title>Welcome Rhys Dalton – Consultant</title>
+<guid isPermaLink="false">lp-2026-03-31-starter-rhys</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<description>Rhys Dalton, Consultant in Member Response, starts on 1 April. Please make him feel welcome.</description>
+</item>
+<item>
+<title>Farewell Phil Karanicolas</title>
+<guid isPermaLink="false">lp-2026-03-31-farewell-phil</guid>
+<pubDate>Thu, 27 Mar 2026 00:00:00 +0000</pubDate>
+<description>Phil Karanicolas, Senior Business Analyst, finished up on 27 March. We thank Phil for his contributions and wish him well.</description>
+</item>
+<item>
+<title>Farewell Jennifer Chemay – Finishing 9 Apr</title>
+<guid isPermaLink="false">lp-2026-03-31-farewell-jennifer</guid>
+<pubDate>Wed, 09 Apr 2026 00:00:00 +0000</pubDate>
+<description>Jennifer Chemay, Senior Business Analyst, finishes on 9 April. We thank Jennifer for her contributions and wish her well.</description>
+</item>
+<item>
+<title>Staff Uniform Rollout – Details Coming Soon</title>
+<guid isPermaLink="false">lp-2026-03-31-uniform-rollout</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>You will shortly receive details on how to order LeavePlus branded workwear for the office. Stay tuned.</description>
+</item>
+<item>
+<title>50 Years of LeavePlus – Celebrations Ahead</title>
+<guid isPermaLink="false">lp-2026-03-31-50-years</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>2026 marks 50 years of LeavePlus. All staff will receive an exclusive 50-year branded polo. New email signatures and updated branding are also on the way.</description>
+</item>
+<item>
+<title>Company Pool Car – Available from May</title>
+<guid isPermaLink="false">lp-2026-03-31-pool-car</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>LeavePlus now has a company pool car for work use. Finance and Facilities are finalising requirements. Comms on how to use it will follow closer to May.</description>
 </item>
 <item>
 <title>EOI: Acknowledgement of Country at Town Hall</title>
-<guid isPermaLink="false">lp-2026-03-24-eoi-acknowledgement-of-country</guid>
-<pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+<guid isPermaLink="false">lp-2026-03-31-aoc-eoi</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
 <description>Interested in presenting the Acknowledgement of Country at a Town Hall meeting? Sign up via the All Staff Teams channel.</description>
 </item>
 <item>
-<title>Wellness Corner – Enjoy Mindless Activities</title>
-<guid isPermaLink="false">lp-2026-03-24-wellness-corner</guid>
-<pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-<description>Give yourself permission to doodle, daydream or sit with your thoughts. Small breaks of doing nothing can restore focus and creativity.</description>
+<title>Wellness Corner: Disconnect to Reconnect</title>
+<guid isPermaLink="false">lp-2026-03-31-wellness-tip</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>Put your phone on airplane mode for an hour or two each day. Disconnecting helps your brain reset, making you more present and productive.</description>
 </item>
 <item>
-<title>Internal Vacancies – Five Roles Now Open</title>
-<guid isPermaLink="false">lp-2026-03-24-internal-vacancies</guid>
-<pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-<description>Roles available: Member Support, Member Response, Member Registration, Employer Obligations (2a/2b Perm) and Strategic Portfolio Delivery Manager (5 Perm).</description>
+<title>Open Roles on Team Tailor</title>
+<guid isPermaLink="false">lp-2026-03-31-open-roles</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>Now recruiting: Consultant – Member Support (2a Perm), Consultant – Employer Obligations (2b Perm), Strategic Portfolio Delivery Manager (5 Perm).</description>
 </item>
 <item>
-<title>LOVE Awards – Nominate a Colleague</title>
-<guid isPermaLink="false">lp-2026-03-24-love-awards</guid>
-<pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-<description>Seen a colleague living our values? Nominate them for a LOVE Award via the Hub.</description>
+<title>Nominate a Colleague for a LOVE Award</title>
+<guid isPermaLink="false">lp-2026-03-31-love-awards</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<description>Seen a colleague living our values? Head to the LOVE Awards page on the Hub to submit your nomination.</description>
 </item>
 <item>
 <title>Catch Up on Announcements &amp; Events</title>
