@@ -1,0 +1,31 @@
+name: Update Gratitude Feed
+
+on:
+  repository_dispatch:
+    types: [new-gratitude]
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update RSS feed
+        run: |
+          NAME="${{ github.event.client_payload.name }}"
+          GRATEFUL_FOR="${{ github.event.client_payload.grateful_for }}"
+          MESSAGE="${{ github.event.client_payload.message }}"
+          PUB_DATE="${{ github.event.client_payload.date }}"
+
+          NEW_ITEM="    <item>\n      <title>From ${NAME} — grateful for ${GRATEFUL_FOR}</title>\n      <description>${MESSAGE}</description>\n      <pubDate>${PUB_DATE}</pubDate>\n    </item>"
+
+          sed -i "/<\/channel>/i\\${NEW_ITEM}" gratitude-feed.xml
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add gratitude-feed.xml
+          git commit -m "New gratitude entry from ${{ github.event.client_payload.name }}"
+          git push
