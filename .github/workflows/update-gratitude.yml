@@ -7,10 +7,9 @@ on:
 permissions:
   contents: write
 
-# Two approvals landing at once would otherwise race each other on push.
-concurrency:
-  group: gratitude-feed
-  cancel-in-progress: false
+# No concurrency group. A group lets only one run wait behind the running one,
+# so a third approval in quick succession was cancelled and its entry lost.
+# Instead, every run rebuilds from the latest feed and retries if it loses a race.
 
 jobs:
   update-feed:
@@ -19,7 +18,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Add entry to feed
+      - name: Add entry, commit and push
         # The submission is passed as environment variables, never spliced
         # into the script body. Text from the form is data, not code.
         env:
@@ -27,26 +26,28 @@ jobs:
           GB_GRATEFUL_FOR: ${{ github.event.client_payload.grateful_for }}
           GB_MESSAGE: ${{ github.event.client_payload.message }}
           GB_DATE: ${{ github.event.client_payload.date }}
-        run: python3 scripts/add_gratitude.py
-
-      - name: Commit and push
         run: |
           set -euo pipefail
-          if git diff --quiet -- gratitude-feed.xml; then
-            echo "Feed unchanged. Nothing to commit."
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add gratitude-feed.xml
-          git commit -m "New gratitude entry"
-          for attempt in 1 2 3; do
-            if git pull --rebase --autostash && git push; then
+          for attempt in 1 2 3 4 5 6; do
+            # Start from whatever is on main right now, including entries
+            # another run (or a manual edit) pushed a moment ago.
+            git fetch --quiet origin "$GITHUB_REF_NAME"
+            git reset --quiet --hard "origin/$GITHUB_REF_NAME"
+            python3 scripts/add_gratitude.py
+            if git diff --quiet -- gratitude-feed.xml; then
+              echo "Feed unchanged (entry already there). Nothing to commit."
+              exit 0
+            fi
+            git add gratitude-feed.xml
+            git commit --quiet -m "New gratitude entry"
+            if git push --quiet origin "HEAD:$GITHUB_REF_NAME"; then
               echo "Pushed on attempt ${attempt}."
               exit 0
             fi
-            echo "Push attempt ${attempt} failed. Retrying."
-            sleep 5
+            echo "Another update landed first. Rebuilding on top of it (attempt ${attempt})."
+            sleep $(( (RANDOM % 8) + 3 ))
           done
-          echo "::error::Could not push the updated feed after 3 attempts."
+          echo "::error::Could not push the updated feed after 6 attempts."
           exit 1
