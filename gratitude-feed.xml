@@ -3,7 +3,14 @@
   <channel>
     <title>LeavePlus Gratitude Board</title>
     <description>Gratitude shared by the LeavePlus team</description>
-    <lastBuildDate>Fri, 23 Oct 2026 15:28:46 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:41:38 +1100</lastBuildDate>
+    <item>
+      <title>Faysal Dalel</title>
+      <category>Matt Wickham</category>
+      <description>For his calm approach and encouraging support everyday with tasks and projects.</description>
+      <pubDate>Fri, 23 Oct 2026 15:41:31 +1100</pubDate>
+      <guid isPermaLink="false">cfd51f409a666522</guid>
+    </item>
     <item>
       <title>Rosh</title>
       <category>Thomas Rotzler</category>
@@ -276,13 +283,6 @@
       <description>My initial claim was done in June for leave to be taken in late July. Matt contacted me and advised to cancel and reapply in July so the payment would be in this financial year. Very well done.</description>
       <pubDate>Thu, 15 Oct 2026 12:29:52 +1100</pubDate>
       <guid isPermaLink="false">9f5079ac679a59cc</guid>
-    </item>
-    <item>
-      <title>A grateful member</title>
-      <category>Rory Stone</category>
-      <description>Staff brilliant especially Rory Stone - great to deal with. Thanks</description>
-      <pubDate>Thu, 15 Oct 2026 12:28:14 +1100</pubDate>
-      <guid isPermaLink="false">4503edb7d3e9333f</guid>
     </item>
   </channel>
 </rss>
