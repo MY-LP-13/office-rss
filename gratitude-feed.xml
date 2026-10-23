@@ -3,7 +3,14 @@
   <channel>
     <title>LeavePlus Gratitude Board</title>
     <description>Gratitude shared by the LeavePlus team</description>
-    <lastBuildDate>Fri, 23 Oct 2026 13:09:54 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:14:27 +1100</lastBuildDate>
+    <item>
+      <title>Cass</title>
+      <category>Senan</category>
+      <description>Thank you to Senan for the time and effort he has put into EO's payroll calculator</description>
+      <pubDate>Fri, 23 Oct 2026 15:14:19 +1100</pubDate>
+      <guid isPermaLink="false">3913846005eb3b2b</guid>
+    </item>
     <item>
       <title>Dion Lim</title>
       <category>Doreen Su</category>
@@ -276,13 +283,6 @@
       <description>For all the little laughs and silly conversations around our pod on office days! What a great bunch!</description>
       <pubDate>Thu, 15 Oct 2026 12:26:07 +1100</pubDate>
       <guid isPermaLink="false">d590f9ecfcc3fcdf</guid>
-    </item>
-    <item>
-      <title>A grateful member</title>
-      <category>Matt</category>
-      <description>Our area field officer Matt gives all the members the right information, cheers Matt</description>
-      <pubDate>Thu, 15 Oct 2026 12:11:38 +1100</pubDate>
-      <guid isPermaLink="false">aa49df967af7ef66</guid>
     </item>
   </channel>
 </rss>
