@@ -3,7 +3,14 @@
   <channel>
     <title>LeavePlus Gratitude Board</title>
     <description>Gratitude shared by the LeavePlus team</description>
-    <lastBuildDate>Fri, 23 Oct 2026 15:14:27 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:28:46 +1100</lastBuildDate>
+    <item>
+      <title>Rosh</title>
+      <category>Thomas Rotzler</category>
+      <description>The humility and kindness you bring to every interaction make every conversation so easy and enjoyable.</description>
+      <pubDate>Fri, 23 Oct 2026 15:28:38 +1100</pubDate>
+      <guid isPermaLink="false">7d55e35a7e787c82</guid>
+    </item>
     <item>
       <title>Cass</title>
       <category>Senan</category>
@@ -276,13 +283,6 @@
       <description>Staff brilliant especially Rory Stone - great to deal with. Thanks</description>
       <pubDate>Thu, 15 Oct 2026 12:28:14 +1100</pubDate>
       <guid isPermaLink="false">4503edb7d3e9333f</guid>
-    </item>
-    <item>
-      <title>Lan Tran</title>
-      <category>Matthew W, Amanda F, Naomi F, Steven R, Faysal D and Tessa G</category>
-      <description>For all the little laughs and silly conversations around our pod on office days! What a great bunch!</description>
-      <pubDate>Thu, 15 Oct 2026 12:26:07 +1100</pubDate>
-      <guid isPermaLink="false">d590f9ecfcc3fcdf</guid>
     </item>
   </channel>
 </rss>
