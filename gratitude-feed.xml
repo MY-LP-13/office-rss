@@ -3,7 +3,14 @@
   <channel>
     <title>LeavePlus Gratitude Board</title>
     <description>Gratitude shared by the LeavePlus team</description>
-    <lastBuildDate>Fri, 23 Oct 2026 09:55:46 +1100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:09:54 +1100</lastBuildDate>
+    <item>
+      <title>Dion Lim</title>
+      <category>Doreen Su</category>
+      <description>Continuing the stapler trend! Doreen saw me looking around for a stapler and kindly lent hers to me within seconds. Thank you Doreen!</description>
+      <pubDate>Fri, 23 Oct 2026 13:09:45 +1100</pubDate>
+      <guid isPermaLink="false">ddf6d71ca465ea79</guid>
+    </item>
     <item>
       <title>Jo</title>
       <category>Tracie Smith</category>
@@ -276,12 +283,6 @@
       <description>Our area field officer Matt gives all the members the right information, cheers Matt</description>
       <pubDate>Thu, 15 Oct 2026 12:11:38 +1100</pubDate>
       <guid isPermaLink="false">aa49df967af7ef66</guid>
-    </item>
-    <item>
-      <title>From the Wellness Committee</title>
-      <description>Welcome to the LeavePlus Gratitude Board! Submissions from the team will appear here.</description>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +1000</pubDate>
-      <guid isPermaLink="false">38ed57e579951a1c</guid>
     </item>
   </channel>
 </rss>
