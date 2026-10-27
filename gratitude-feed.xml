@@ -3,7 +3,14 @@
   <channel>
     <title>LeavePlus Gratitude Board</title>
     <description>Gratitude shared by the LeavePlus team</description>
-    <lastBuildDate>Mon, 26 Oct 2026 16:12:12 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:06:20 +1100</lastBuildDate>
+    <item>
+      <title>Matt Y</title>
+      <category>Power Automate</category>
+      <description>I'd like to thank Power Automate for the ability to post these cute little cards in the Shoutouts channel whenever someone submits a Gratitude Board update. Assuming this test works, of course.</description>
+      <pubDate>Tue, 27 Oct 2026 15:06:11 +1100</pubDate>
+      <guid isPermaLink="false">ce7f590a7bf4bb01</guid>
+    </item>
     <item>
       <title>Nicola</title>
       <category>Lekhna Landwehr</category>
@@ -276,13 +283,6 @@
       <description>Leave was not processed online but once it went to Matt I was contacted and the process was easy and very quick, paid within a few days.</description>
       <pubDate>Thu, 15 Oct 2026 14:49:28 +1100</pubDate>
       <guid isPermaLink="false">f0756e4dfa1f3bf2</guid>
-    </item>
-    <item>
-      <title>Luchienne</title>
-      <category>Christine, Sami, and Gerard</category>
-      <description>Thank you for taking on additional tasks to cover for Camila while she is on leave.</description>
-      <pubDate>Thu, 15 Oct 2026 14:49:06 +1100</pubDate>
-      <guid isPermaLink="false">c3656a4fec30cd97</guid>
     </item>
   </channel>
 </rss>
