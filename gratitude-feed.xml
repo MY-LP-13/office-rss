@@ -3,7 +3,14 @@
   <channel>
     <title>LeavePlus Gratitude Board</title>
     <description>Gratitude shared by the LeavePlus team</description>
-    <lastBuildDate>Wed, 28 Oct 2026 16:31:06 +1100</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:50:00 +1100</lastBuildDate>
+    <item>
+      <title>Sachin Sharma</title>
+      <category>Carlos Rios</category>
+      <description>Thanks, Carlos, for always being ready to help with a smile! I pinged him about my Authenticator issue, and within 5 minutes, he was at my desk and had it sorted. Absolute legend!</description>
+      <pubDate>Thu, 29 Oct 2026 09:49:51 +1100</pubDate>
+      <guid isPermaLink="false">a4583ccb6f4d82ca</guid>
+    </item>
     <item>
       <title>Andy Pike</title>
       <category>Josh Reed</category>
@@ -276,13 +283,6 @@
       <description>I love to meet the people I don't daily interact with, meet or engage with. We are all so different and barriers broken. Makes me very happy.</description>
       <pubDate>Thu, 15 Oct 2026 14:50:03 +1100</pubDate>
       <guid isPermaLink="false">f22b1b001a6f565c</guid>
-    </item>
-    <item>
-      <title>A grateful member</title>
-      <category>Valerie</category>
-      <description>Thanks to the emails received from Valerie it was fairly straightforward</description>
-      <pubDate>Thu, 15 Oct 2026 14:49:47 +1100</pubDate>
-      <guid isPermaLink="false">c9fdfcf801649307</guid>
     </item>
   </channel>
 </rss>
